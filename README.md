@@ -9,9 +9,6 @@ This project is a solution to the Password generator app challenge from [Fronten
 - [Technologies Used](#technologies-used)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Demo
 
