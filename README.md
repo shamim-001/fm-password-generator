@@ -1,4 +1,4 @@
-# Multi-step Form Challenge
+# Password generator app challenge
 
 This project is a solution to the Password generator app challenge from [Frontend Mentor](https://www.frontendmentor.io/challenges/password-generator-app-Mr8CLycqjh). The goal of the challenge was to generate random passwords.
 
