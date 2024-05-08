@@ -6,7 +6,7 @@ const App = () => {
   return (
     <div
       data-theme={isDarkMode ? "dark" : "light"}
-      className="min-w-full min-h-svh relative"
+      className="min-w-full px-5 min-h-svh relative"
     >
       <div className="absolute p-5">
         <ModeToggle />
